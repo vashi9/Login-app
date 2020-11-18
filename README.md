@@ -1,6 +1,6 @@
 # Node.js & Passport Login
 
-This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages.
+This is a MERN stack app that is used for user login and register. It provides validation for all input fields.
 
 ### Version: 2.0.0
 
@@ -12,12 +12,5 @@ $ npm install
 
 ```sh
 $ npm start
-# Or run with Nodemon
-$ npm run dev
-
 # Visit http://localhost:5000
 ```
-
-### MongoDB
-
-Open "config/keys.js" and add your MongoDB URI, local or Atlas
